@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-		<title>B3B09作業01</title>
+		<title>B3A01作業01</title>
 	<style>
 		div {
 			margin: 15px;
@@ -10,7 +10,7 @@
 			line-height: 30px;
 		}
 		h3 {
-			color: blue;
+			color: black;
 		}
 		span {
 			color: brown;
@@ -19,11 +19,9 @@
 	</style>
 </head>
 	<body>
-        <h2>嘉賓果</h2>
-		<h3>長在樹幹上的葡萄</h3>
-		<div>
-			長相似葡萄，味道似葡萄，名字似葡萄，卻不是葡萄。披著紫色外衣的甚麼神秘的水果呢？答案是嘉賓果！嘉賓果(Jabuticaba)，除了有人叫它「樹葡萄」、「美味熱帶葡萄」，有一個非常美麗的別名──擬愛神木，是遠從中南美洲(巴西)而來的亞熱帶水果。
-		</div>
+        <h2>鳳梨釋迦</h2>
+		<h3>原產熱帶美洲</h3>
+		<div>因其果實奇特，幼果外表很像荔枝，又自稱「番夷」引入，所以稱為「番荔枝」</div>
 		<div ><img src="pic01.jpg" width="400"></div>
 		<h3>古老的傳說與愛情</h3>
 		<div>
